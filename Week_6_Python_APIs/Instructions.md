@@ -34,7 +34,6 @@ As final considerations:
 * You must use the Matplotlib or Pandas plotting libraries.
 * You must include a written description of three observable trends based on the data.
 * You must use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
-* See [Example Solution](WeatherPy_Example.pdf) for a reference on expected format.
 
 ## Hints and Considerations
 
