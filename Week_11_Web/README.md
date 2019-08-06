@@ -8,4 +8,4 @@ On the main webpage you'll find several visualizations and comparisons. Feel fre
 
 All of the graphs were created with the code found in the file WeatherPy.ipynb (this was week's 6 assignments. no major changes were made to the code). 
 
-The final webpage is deployed in [Week 11's Github Page](https://github.com/maurop13/maurop13.github.io "Week 11 Assignment- Weather visualizations")
+The final webpage is deployed in [Week 11's Github Page](https://maurop13.github.io/Week_11/ "Week 11 Assignment- Weather visualizations")
